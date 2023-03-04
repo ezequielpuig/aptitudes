@@ -51,7 +51,12 @@ https://www.linkedin.com/in/ezequielpuig/
         }
 
 _Related Key Terms:_ <br/>
-skills; habilidades blandas; habilidades duras; soft skills; hard skills; aptitudes; trabajo; lista de skills; lista de aptitudes
+(skills, conocimientos, habilidades) <br/>
+habilidades blandas; habilidades duras; soft skills; hard skills; trabajo; lista de skills; lista de aptitudes
+
+_Related Datasets:_ <br/>
+Dataset de Títulos. (cargos, profesiones, trabajos, ocupaciones, oficios, labores, carreras, puestos de trabajo, posiciones, job titles) <br/>
+https://github.com/EzequielPuig/titulos
 
 <br/>
 
